@@ -9,7 +9,7 @@ In 2020, Covid hit and I decided to change careers while doing a few courses on 
 In 2022, I had my first app produced by me and a few opportunities to work on the field. Now I am looking forward in more opportunities to learn and grow :boom:.  
 
 How to reach me 📬  
-Please visit (https://www.linkedin.com/in/rafagarcia07/) and reach out.
+Please visit www.linkedin.com/in/rafagarcia07/ and reach out.
 
 <!---
 rafaellevis07/rafaellevis07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
