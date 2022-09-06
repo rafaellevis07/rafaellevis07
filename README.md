@@ -1,6 +1,6 @@
 Intro 👋🏼  
 Rafael Garcia  
-👨🏻‍💻 Full-Stack • Web Technology • Ruby on Rails and Bootstrap • :brazil: :us:
+👨🏻‍💻 Full-Stack • Web Technology • Ruby on Rails • :brazil: :us:
 
 How to reach me 📬  
 Please visit www.linkedin.com/in/rafagarcia07/ and reach out.
