@@ -1,6 +1,6 @@
 Intro 👋🏼  
 Rafael Garcia  
-👨🏻‍💻 Full-Stack • Web Technology • React.js • Ruby on Rails • :brazil: :us:
+👨🏻‍💻 Full-Stack • React Js, Javascript, Redux, Jest, Ruby on Rails, MVPs, Agile/ SCRUM, Azure, Bootstrap, HAML, HTML, CSS/ SCSS, and more. :brazil: :us:
 
 How to reach me 📬  
 Please visit www.linkedin.com/in/rafagarcia07/ and reach out.
