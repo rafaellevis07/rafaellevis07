@@ -1,6 +1,7 @@
 Intro 👋🏼  
 Rafael Garcia  
-👨🏻‍💻 Full-Stack • React Js, Javascript, Redux, Jest, Tailwind, Ruby on Rails, MVPs, Agile/ SCRUM, Azure, Bootstrap, HAML, HTML, CSS/ SCSS, and more. :brazil: :us:
+👨🏻‍💻 Full-Stack • Javascript | React | Redux | HTML | CSS/SCSS | Tailwind | Firebase | REST API | AJAX | Jest | React-Testing-Library
+Responsive Design | Git/Github | Agile | Ruby | Ruby on Rails and more. :brazil: :us:
 
 How to reach me 📬  
 Please visit www.linkedin.com/in/rafagarcia07/ and reach out.
